@@ -1,0 +1,11 @@
+{
+  "org": "wbond",
+  "repo": "asn1crypto",
+  "versions": [
+    {
+      "commit": "a767d2daa8ef4549d497b67a0304561c2eb4b858",
+      "tag": "",
+      "parsed_at": "2026-10-19T13:20:09.978688+00:00"
+    }
+  ]
+}
