@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/wbond/asn1crypto/commit/a767d2daa8ef4549d497b67a0304561c2eb4b858",
       "git:hexsha": "a767d2daa8ef4549d497b67a0304561c2eb4b858",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/wbond/asn1crypto/commit/d007e0f810891529ad0299fa70f0074ae9d8c694",
